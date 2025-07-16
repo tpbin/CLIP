@@ -21,7 +21,7 @@
 
 ## 3. Model Architecture
 
-![image](https://github.com/user-attachments/assets/0f172a7a-da65-4dba-99aa-32569b9652a0)
+![image](https://github.com/user-attachments/assets/3f0f0fec-a6ad-4841-ab6f-acd2c4fd9aa9)
 
 <sub>▲ 논문 Figure 1: (1) 대조 사전학습 → (2) 텍스트‑기반 분류기 생성 → (3) 제로샷 예측 흐름</sub>
 
