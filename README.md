@@ -21,8 +21,7 @@
 
 ## 3. Model Architecture
 
-![image](https://github.com/user-attachments/assets/3f0f0fec-a6ad-4841-ab6f-acd2c4fd9aa9)
-
+![image](https://github.com/user-attachments/assets/e145ed72-0afd-49e1-a6fb-e3abc31d3b5b)
 <sub>▲ 논문 Figure 1: (1) 대조 사전학습 → (2) 텍스트‑기반 분류기 생성 → (3) 제로샷 예측 흐름</sub>
 
 ### (1) Contrastive Pre‑training
